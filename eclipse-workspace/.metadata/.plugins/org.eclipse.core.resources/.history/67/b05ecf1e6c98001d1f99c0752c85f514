@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Book Application</title>
+</head>
+<body bgcolor="black">
+<br><br><br>
+<h2 align="center">
+<a href="register.html">Register</a>
+<a href="login.html">Login</a></h2>
+<br><br>
+<form action="./insert" method="get" align="center">
+<input type="text" name="username" placeholder="Enter username">
+<input type="password" name="password" placeholder="Enter username"> 
+<input type="email" name="email" placeholder="Enter password">
+<input type="number" name="phone" placeholder="Enter phone">
+<input type="submit" value="Register">
+</form>
+</body>
+</html>
